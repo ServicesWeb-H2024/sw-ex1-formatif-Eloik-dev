@@ -19,6 +19,9 @@
 -- Table structure for table `netflix_titles`
 --
 
+CREATE DATABASE `sw_examen1_formatif`;
+USE `sw_examen1_formatif`;
+
 DROP TABLE IF EXISTS `netflix_titles`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
